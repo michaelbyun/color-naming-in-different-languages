@@ -5,68 +5,70 @@
 const fs = require('fs'),
   refine = require('./refine.js'),
   csv = require("csvtojson"),
-  d3 = require('d3'),
+  // d3 = require('d3'),
   csvWriter = require('csv-write-stream');
 
-const MIN_FULL_COLOR_NAMES = 12;
-const LINE_RGB_SET = "line";
-const FULL_RGB_SET = "full";
+import('d3').then(d3 => {
 
+  const MIN_FULL_COLOR_NAMES = 12;
+  const LINE_RGB_SET = "line";
+  const FULL_RGB_SET = "full";
 
-// Path or the input csv file
-const FILE_I = "../cleaned_color_names.csv"
-const FILE_O = "../basic_full_color_info.csv"; // Path for the output
+  // Path or the input csv file
+  const FILE_I = "../cleaned_color_names.csv"
+  const FILE_O = "../basic_full_color_info.csv"; // Path for the output
 
-csv().fromFile(FILE_I)
-  .then((colorNames)=>{
+  csv().fromFile(FILE_I)
+    .then((colorNames)=>{
 
-   let grouped = d3.nest()
-    .key(d => d.lang0)
-    .entries(colorNames)
-    .sort((a,b) =>  - a.values.length + b.values.length);
+      let grouped = Array.from(d3.group(colorNames, d => d.lang0))
+                         .sort((a, b) =>  - a[1].length + b[1].length);
 
-    grouped.forEach(g => {
-      g.terms = d3.nest()
-                  .key(v => v.name)
-                  .entries(g.values)
-                  .sort((a,b) => -a.values.length + b.values.length);
+      grouped.forEach(g => {
+        let terms = Array.from(d3.group(g[1], v => v.name))
+                         .sort((a, b) => -a[1].length + b[1].length);
 
-      g.terms.forEach(term => {
-        term.numLineNames = term.values.filter(entry => entry.rgbSet == LINE_RGB_SET).length
-        term.numFullNames = term.values.filter(entry => entry.rgbSet == FULL_RGB_SET).length
-        term.simplifiedName = term.key;
-        term.commonName = d3.nest()
-          .key(t => t.entered_name)
-          .entries(term.values)
-          .sort((a,b) => -a.values.length + b.values.length)[0].key;
-      })
+        g[1] = terms.map(term => {
+          let numLineNames = term[1].filter(entry => entry.rgbSet == LINE_RGB_SET).length;
+          let numFullNames = term[1].filter(entry => entry.rgbSet == FULL_RGB_SET).length;
+          let simplifiedName = term[0];
 
-      g.terms = g.terms.filter(g_term => g_term.numFullNames >= MIN_FULL_COLOR_NAMES);
+          let commonName = Array.from(d3.group(term[1], t => t.entered_name))
+                               .sort((a,b) => -a[1].length + b[1].length)[0][0];
 
-      g.terms.sort((a,b) => -a.numFullNames + b.numFullNames);
-    });
+          return {
+            terms: term[1],
+            numLineNames: numLineNames,
+            numFullNames: numFullNames,
+            simplifiedName: simplifiedName,
+            commonName: commonName
+          };
+        });
 
-    grouped.sort((a,b) =>  - a.terms.length + b.terms.length);
-
-  console.log("writing file");
-  let writer = csvWriter();
-  writer.pipe(fs.createWriteStream(FILE_O));
-
-  grouped.forEach(lang => {
-    lang.terms.forEach(term => {
-      delete term.values;
-      term.lang = lang.key;
-      writer.write({
-        lang: term.lang,
-        commonName: term.commonName,
-        simplifiedName: term.simplifiedName,
-        numFullNames: term.numFullNames,
-        numLineNames: term.numLineNames,
+        g[1] = g[1].filter(g_term => g_term.numFullNames >= MIN_FULL_COLOR_NAMES);
+        g[1].sort((a,b) => -a.numFullNames + b.numFullNames);
       });
-    })
 
-  });
+      grouped.sort((a,b) =>  - a[1].length + b[1].length);
 
-  writer.end();
+      console.log("writing file");
+      let writer = csvWriter();
+      writer.pipe(fs.createWriteStream(FILE_O));
+
+      grouped.forEach(lang => {
+        lang[1].forEach(term => {
+          delete term.terms;
+          term.lang = lang[0];
+          writer.write({
+            lang: term.lang,
+            commonName: term.commonName,
+            simplifiedName: term.simplifiedName,
+            numFullNames: term.numFullNames,
+            numLineNames: term.numLineNames,
+          });
+        })
+      });
+
+      writer.end();
+    });
 });
-

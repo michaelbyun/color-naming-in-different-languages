@@ -6,20 +6,11 @@ import os
 from tqdm import tqdm
 
 engine = "text-davinci-003"
-
-# def hsv2rgb(h,s,v):
-#     return tuple(round(i * 255) for i in colorsys.hsv_to_rgb(h,s,v))
-
-# def rgb2hex(rgb):
-#     return "#{:02x}{:02x}{:02x}".format(*rgb)
-
-# def generate_colors(num_colors):
-#     return [rgb2hex(hsv2rgb(hue, 1, 1)) for hue in [i/num_colors for i in range(num_colors)]]
-
-# hex_colors = generate_colors(36)
+temperature = 0.5
+o_file = f'{engine}_temp{temperature}_results.csv'
 
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Define a list of languages and their prompt templates
 # languages = [
@@ -75,7 +66,7 @@ def get_color(s):
 results = []
 
 
-for j in tqdm(range(1000)):
+for j in tqdm(range(200)):
     # Randomly sample from RGB colorspace
     r = random.randint(0, 255)
     g = random.randint(0, 255)
@@ -95,12 +86,16 @@ for j in tqdm(range(1000)):
         # Loop through the number of desired queries per hex code per language
         for i in range(1):
             # Call the API
-            response = openai.Completion.create(
-                engine=engine,
-                prompt=prompt,
-                temperature=0.0,
-                max_tokens=50
-            )
+            try:
+                response = openai.Completion.create(
+                    engine=engine,
+                    prompt=prompt,
+                    temperature=temperature,
+                    max_tokens=50
+                )
+            except:
+                print("Error")
+                continue
             
             colorname = get_color(response.choices[0].text.strip())
 
@@ -123,13 +118,6 @@ for j in tqdm(range(1000)):
                 "lab_b":"-1",
                 "locale":"en"
             })
-            # results.append({
-            #     'Hex Code': code,
-            #     'Language': lang['language'],
-            #     'Prompt': prompt,
-            #     'Response': response['choices'][0]['text'].strip(),
-            #     'Query Number': i + 1  # Add query number to keep track of each query
-            # })
 
 # Convert the results to a pandas DataFrame
 df = pd.DataFrame(results)
@@ -148,9 +136,9 @@ for index, row in df.iterrows():
         df.at[index, 'colorNameId'] = colorNameId
 
 # Check if the file exists
-if not os.path.isfile(f'{engine}_results.csv'):
+if not os.path.isfile(o_file):
     # If the file doesn't exist, write the DataFrame to a new CSV file with the header
-    df.to_csv(f'{engine}_results.csv', index=False)
+    df.to_csv(o_file, index=False)
 else:
     # If the file exists, append to it without the header
-    df.to_csv(f'{engine}_results.csv', mode='a', header=False, index=False)
+    df.to_csv(o_file, mode='a', header=False, index=False)

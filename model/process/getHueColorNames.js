@@ -1,12 +1,14 @@
 const fs = require('fs'),
   refine = require('./refine.js'),
   colorBins = require('./colorBins.js'),
-  Converter = require("csvtojson").Converter,
-  d3 = require('d3');
-const converter = new Converter({});
+  csv = require("csvtojson");
+  // Converter = require("csvtojson").Converter;
+// const converter = new Converter({});
 const N_BINS = 36, N_TERMS = 20;
 const O_FILE_NAME = `../hue_color_names_aggregated.json`;
 const O_FILE_NAME_FLATTEN = `../hue_color_names.json`;
+
+import('d3').then(d3 => {
 
 const LANG_CODE = {
   'English (English)' : "en",
@@ -25,57 +27,61 @@ const LANG_CODE = {
   'Romanian (limba română)' : "ro",
   'Danish (dansk)': "da",
   'Italian (italiano)': "it",
-  'Persian (Farsi) (فارسی)': 'fa'
+  'Persian (Farsi) (فارسی)': 'fa',
+  'English (text-davinci-003)': 'en-gpt',
+  'Chinese (text-davinci-003)': 'zh-CN-gpt',
+  'Russian (text-davinci-003)': 'ru-gpt',
+  'Korean (text-davinci-003)': 'ko-gpt',
 };
 
-const TOP_LANGS = ['English (English)' ,
- 'Korean (한국어, 조선어)' ,
- 'Spanish (español)',
- 'German (Deutsch)',
- 'French (français, langue française)',
- 'Chinese (中文 (Zhōngwén), 汉语, 漢語)',
- 'Swedish (svenska)' ,
- 'Portuguese (português)' ,
- 'Polish (język polski, polszczyzna)',
- 'Russian (Русский)' ,
- 'Dutch (Nederlands, Vlaams)',
- 'Finnish (suomi, suomen kieli)',
- 'Romanian (limba română)' ,
- 'Persian (Farsi) (فارسی)'];
+// const TOP_LANGS = ['English (English)' ,
+//  'Korean (한국어, 조선어)' ,
+//  'Spanish (español)',
+//  'German (Deutsch)',
+//  'French (français, langue française)',
+//  'Chinese (中文 (Zhōngwén), 汉语, 漢語)',
+//  'Swedish (svenska)' ,
+//  'Portuguese (português)' ,
+//  'Polish (język polski, polszczyzna)',
+//  'Russian (Русский)' ,
+//  'Dutch (Nederlands, Vlaams)',
+//  'Finnish (suomi, suomen kieli)',
+//  'Romanian (limba română)' ,
+//  'Persian (Farsi) (فارسی)'];
+const TOP_LANGS = ['English (text-davinci-003)',
+'Chinese (text-davinci-003)',
+'Russian (text-davinci-003)',
+'Korean (text-davinci-003)',];
 
+// fs.createReadStream("../../raw/color_perception_table_color_names.csv").pipe(converter);
+csv()
+    .fromStream(fs.createReadStream("../../gpt-data/text-davinci-003_results.csv"))
+    .then(colorNames => {
+// converter.on("end_parsed", function (colorNames) {
+    // 1. Get top languages
+    let grouped = Array.from(d3.group(colorNames, d => d.lang0))
+      .sort((a,b) =>  - a[1].length + b[1].length)
+      .filter(g => TOP_LANGS.indexOf(g[0]) >=0 );
 
-fs.createReadStream("../../raw/color_perception_table_color_names.csv").pipe(converter);
-converter.on("end_parsed", function (colorNames) {
-  colorNames = colorNames.filter(cn => cn.studyVersion !== "1.1.4" && cn.rgbSet === "line"); //There is a priming effect.
-  colorNames = colorNames.filter(cn => cn.participantId !== 0);
+    // 2. Get top terms
+    grouped.forEach(g => {
+      let refined = refine(g[1], "line");
+      let nested = Array.from(d3.group(refined, v => v.name))
+        .map(([key, values]) => ({ key, values }))
+        .sort((a,b) => -a.values.length + b.values.length);
 
-  // 1. Get top languages
-  let grouped = d3.nest()
-    .key(d => d.lang0)
-    .entries(colorNames)
-    .sort((a,b) =>  - a.values.length + b.values.length)
-    .filter(g => TOP_LANGS.indexOf(g.key) >=0 );
+      g[1] = {terms: nested};
+      let rankLookUp = g[1].terms.map(t => t.values.length);
+      g[1].topNTerms = g[1].terms.filter(t => rankLookUp.indexOf(t.values.length) + 1 <= N_TERMS);
 
+      g[1].terms.forEach(t => {
+        t.rank = rankLookUp.indexOf(t.values.length) + 1;
+      });
 
-  // 2. Get top terms
-  grouped.forEach(g => {
-    let refined = refine(g.values, "line");
-    g.terms = d3.nest().key(v => v.name).entries(refined).sort((a,b) => -a.values.length + b.values.length);
-
-    let rankLookUp = g.terms.map(t => t.values.length);
-    g.topNTerms = g.terms.filter(t => rankLookUp.indexOf(t.values.length) + 1 <= N_TERMS);
-
-    g.terms.forEach(t => {
-      t.rank = rankLookUp.indexOf(t.values.length) + 1;
+      //Print out the terms
+      console.log(`Lang : ${g[0]}`);
+      console.log(`Terms : ${JSON.stringify(g[1].topNTerms.map(subg => subg.key))}`);
     });
-
-
-    //Print out the terms
-    console.log(`Lang : ${g.key}`);
-    console.log(`Terms : ${JSON.stringify(g.topNTerms.map(subg => subg.key))}`);
-
-  });
-
 
 
   // 3. Export the data
@@ -144,3 +150,4 @@ converter.on("end_parsed", function (colorNames) {
 
 });
 
+});

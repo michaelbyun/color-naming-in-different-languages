@@ -1,0 +1,801 @@
+colorNameId,participantId,lang0,phaseNum,trialNum,tileNum,name,r,g,b,studyVersion,rgbSet,lab_l,lab_a,lab_b,locale
+382,-1,English (text-davinci-003),0,-1,-1,Mint,90,254,165,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,90,254,165,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зелено-голубой,90,254,165,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,에메랄드 그린,90,254,165,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,188,93,251,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深洋红色,188,93,251,1.1.5,full,-1,-1,-1,en
+11145,-1,Russian (text-davinci-003),0,-1,-1,пурпурный,188,93,251,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,188,93,251,1.1.5,full,-1,-1,-1,en
+87,-1,English (text-davinci-003),0,-1,-1,Lime Green,105,232,57,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿钻石,105,232,57,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленовато-салатовый,105,232,57,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,105,232,57,1.1.5,full,-1,-1,-1,en
+8133,-1,English (text-davinci-003),0,-1,-1,olive,30,76,47,1.1.5,full,-1,-1,-1,en
+19000,-1,Chinese (text-davinci-003),0,-1,-1,深绿色,30,76,47,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленовато-коричневый,30,76,47,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,30,76,47,1.1.5,full,-1,-1,-1,en
+32975,-1,English (text-davinci-003),0,-1,-1,Olive Green,158,156,35,1.1.5,full,-1,-1,-1,en
+19002,-1,Chinese (text-davinci-003),0,-1,-1,金黄色,158,156,35,1.1.5,full,-1,-1,-1,en
+10772,-1,Russian (text-davinci-003),0,-1,-1,желто-зеленый,158,156,35,1.1.5,full,-1,-1,-1,en
+3851,-1,Korean (text-davinci-003),0,-1,-1,노랑색,158,156,35,1.1.5,full,-1,-1,-1,en
+52,-1,English (text-davinci-003),0,-1,-1,sky blue,128,197,225,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,128,197,225,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,голубой серый,128,197,225,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,128,197,225,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Gray,174,89,126,1.1.5,full,-1,-1,-1,en
+51137,-1,Chinese (text-davinci-003),0,-1,-1,米色,174,89,126,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,пурпурно-розовый,174,89,126,1.1.5,full,-1,-1,-1,en
+68723,-1,Korean (text-davinci-003),0,-1,-1,고동색,174,89,126,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,76,137,181,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,冰川蓝,76,137,181,1.1.5,full,-1,-1,-1,en
+10801,-1,Russian (text-davinci-003),0,-1,-1,бирюзовый,76,137,181,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,76,137,181,1.1.5,full,-1,-1,-1,en
+49661,-1,English (text-davinci-003),0,-1,-1,Heather,102,133,230,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,102,133,230,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лазурный синий,102,133,230,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 블루,102,133,230,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,102,166,69,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苹果绿,102,166,69,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зелено-салатовый,102,166,69,1.1.5,full,-1,-1,-1,en
+79393,-1,Korean (text-davinci-003),0,-1,-1,에메랄드 녹색,102,166,69,1.1.5,full,-1,-1,-1,en
+15,-1,English (text-davinci-003),0,-1,-1,yellow,212,212,12,1.1.5,full,-1,-1,-1,en
+8448,-1,Chinese (text-davinci-003),0,-1,-1,Lemon Yellow,212,212,12,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,желтый лайм,212,212,12,1.1.5,full,-1,-1,-1,en
+3186,-1,Korean (text-davinci-003),0,-1,-1,노랑,212,212,12,1.1.5,full,-1,-1,-1,en
+225,-1,English (text-davinci-003),0,-1,-1,Turquoise,7,217,222,1.1.5,full,-1,-1,-1,en
+36272,-1,Chinese (text-davinci-003),0,-1,-1,浅蓝色,7,217,222,1.1.5,full,-1,-1,-1,en
+10801,-1,Russian (text-davinci-003),0,-1,-1,бирюзовый,7,217,222,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,하늘색이라고 할 수 있습니다,7,217,222,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Purple Sage,96,33,181,1.1.5,full,-1,-1,-1,en
+19007,-1,Chinese (text-davinci-003),0,-1,-1,深紫色,96,33,181,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Фиолетово-синий,96,33,181,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,밤핑크,96,33,181,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,54,152,12,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿色柠檬,54,152,12,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленое морское,54,152,12,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,54,152,12,1.1.5,full,-1,-1,-1,en
+3449,-1,English (text-davinci-003),0,-1,-1,Royal Purple,89,5,177,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,蓝宝石色,89,5,177,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,голубая лазурь,89,5,177,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,89,5,177,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,83,143,1,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苹果绿,83,143,1,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,83,143,1,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,83,143,1,1.1.5,full,-1,-1,-1,en
+92,-1,English (text-davinci-003),0,-1,-1,Hot Pink,250,20,100,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,珊瑚粉,250,20,100,1.1.5,full,-1,-1,-1,en
+13942,-1,Russian (text-davinci-003),0,-1,-1,алый,250,20,100,1.1.5,full,-1,-1,-1,en
+177,-1,Korean (text-davinci-003),0,-1,-1,빨간색,250,20,100,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Carmine Red,242,29,34,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,火红色,242,29,34,1.1.5,full,-1,-1,-1,en
+10287,-1,Russian (text-davinci-003),0,-1,-1,красный,242,29,34,1.1.5,full,-1,-1,-1,en
+177,-1,Korean (text-davinci-003),0,-1,-1,빨간색,242,29,34,1.1.5,full,-1,-1,-1,en
+51839,-1,English (text-davinci-003),0,-1,-1,Steel Blue,69,142,186,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,69,142,186,1.1.5,full,-1,-1,-1,en
+10801,-1,Russian (text-davinci-003),0,-1,-1,бирюзовый,69,142,186,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,69,142,186,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,196,227,242,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,196,227,242,1.1.5,full,-1,-1,-1,en
+143219,-1,Russian (text-davinci-003),0,-1,-1,бледно-голубой,196,227,242,1.1.5,full,-1,-1,-1,en
+73968,-1,Korean (text-davinci-003),0,-1,-1,밝은 하늘색,196,227,242,1.1.5,full,-1,-1,-1,en
+7,-1,English (text-davinci-003),0,-1,-1,lime green,7,252,18,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿钻石,7,252,18,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,небесно-зеленый,7,252,18,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,7,252,18,1.1.5,full,-1,-1,-1,en
+8133,-1,English (text-davinci-003),0,-1,-1,olive,39,68,36,1.1.5,full,-1,-1,-1,en
+19000,-1,Chinese (text-davinci-003),0,-1,-1,深绿色,39,68,36,1.1.5,full,-1,-1,-1,en
+11169,-1,Russian (text-davinci-003),0,-1,-1,темно-зеленый,39,68,36,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,39,68,36,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,202,48,252,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,202,48,252,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-розовый,202,48,252,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,202,48,252,1.1.5,full,-1,-1,-1,en
+130173,-1,English (text-davinci-003),0,-1,-1,Green Gray,80,143,65,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苹果绿,80,143,65,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,80,143,65,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,에메랄드 초록,80,143,65,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Distant Blue,9,52,166,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝石蓝,9,52,166,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,9,52,166,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다이아몬드 블루,9,52,166,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blush,174,98,209,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,浅灰色,174,98,209,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лиловый,174,98,209,1.1.5,full,-1,-1,-1,en
+52147,-1,Korean (text-davinci-003),0,-1,-1,벽돌색,174,98,209,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Copper Rust,222,130,84,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,珊瑚红,222,130,84,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,оранжевый красный,222,130,84,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,딥 오렌지,222,130,84,1.1.5,full,-1,-1,-1,en
+57989,-1,English (text-davinci-003),0,-1,-1,Tiffany Blue,76,233,249,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,76,233,249,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,76,233,249,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,하늘색이다,76,233,249,1.1.5,full,-1,-1,-1,en
+737,-1,English (text-davinci-003),0,-1,-1,Tangerine,231,106,11,1.1.5,full,-1,-1,-1,en
+19029,-1,Chinese (text-davinci-003),0,-1,-1,橙色,231,106,11,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,оранжево-коричневый,231,106,11,1.1.5,full,-1,-1,-1,en
+184,-1,Korean (text-davinci-003),0,-1,-1,주황색,231,106,11,1.1.5,full,-1,-1,-1,en
+2196,-1,English (text-davinci-003),0,-1,-1,Spring Green,118,198,87,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿松石绿,118,198,87,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зелено-голубой,118,198,87,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,118,198,87,1.1.5,full,-1,-1,-1,en
+2196,-1,English (text-davinci-003),0,-1,-1,Spring Green,38,245,102,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,38,245,102,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,мятный зеленый,38,245,102,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,38,245,102,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,lavender blue,164,46,249,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,164,46,249,1.1.5,full,-1,-1,-1,en
+41783,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-синий,164,46,249,1.1.5,full,-1,-1,-1,en
+52147,-1,Korean (text-davinci-003),0,-1,-1,벽돌색,164,46,249,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,218,23,179,1.1.5,full,-1,-1,-1,en
+19056,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰,218,23,179,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-розовый,218,23,179,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,핑크보라색,218,23,179,1.1.5,full,-1,-1,-1,en
+952,-1,English (text-davinci-003),0,-1,-1,Royal Blue,49,97,167,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝石蓝,49,97,167,1.1.5,full,-1,-1,-1,en
+18348,-1,Russian (text-davinci-003),0,-1,-1,лазурный,49,97,167,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,에비앙 파랑,49,97,167,1.1.5,full,-1,-1,-1,en
+555,-1,English (text-davinci-003),0,-1,-1,burnt orange,219,110,71,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深橙色,219,110,71,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,оранжево-коричневый,219,110,71,1.1.5,full,-1,-1,-1,en
+192,-1,Korean (text-davinci-003),0,-1,-1,빨강색,219,110,71,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,144,178,73,1.1.5,full,-1,-1,-1,en
+20058,-1,Chinese (text-davinci-003),0,-1,-1,薄荷绿,144,178,73,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,144,178,73,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,144,178,73,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blue,111,113,237,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,111,113,237,1.1.5,full,-1,-1,-1,en
+18698,-1,Russian (text-davinci-003),0,-1,-1,Фиолетовый,111,113,237,1.1.5,full,-1,-1,-1,en
+68832,-1,Korean (text-davinci-003),0,-1,-1,밝은 보라색,111,113,237,1.1.5,full,-1,-1,-1,en
+48,-1,English (text-davinci-003),0,-1,-1,goldenrod,229,216,110,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苍翠绿,229,216,110,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,золотисто-желтый,229,216,110,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,버들 노랑,229,216,110,1.1.5,full,-1,-1,-1,en
+27193,-1,English (text-davinci-003),0,-1,-1,Persian Blue,15,22,220,1.1.5,full,-1,-1,-1,en
+952,-1,Chinese (text-davinci-003),0,-1,-1,Royal Blue,15,22,220,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,синий цвет лазури,15,22,220,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다이아몬드 블루,15,22,220,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,29,121,62,1.1.5,full,-1,-1,-1,en
+19000,-1,Chinese (text-davinci-003),0,-1,-1,深绿色,29,121,62,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,моховой зеленый,29,121,62,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,29,121,62,1.1.5,full,-1,-1,-1,en
+8133,-1,English (text-davinci-003),0,-1,-1,olive,65,86,6,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深灰绿色,65,86,6,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бутылочно-зеленый,65,86,6,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,오렌지 브라운,65,86,6,1.1.5,full,-1,-1,-1,en
+2196,-1,English (text-davinci-003),0,-1,-1,Spring Green,188,221,110,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,188,221,110,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленовато-желтый,188,221,110,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 녹,188,221,110,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Electric Violet,123,1,255,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,123,1,255,1.1.5,full,-1,-1,-1,en
+18698,-1,Russian (text-davinci-003),0,-1,-1,Фиолетовый,123,1,255,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,123,1,255,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Green Sheen,178,253,136,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,178,253,136,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,мята,178,253,136,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라임 컬러,178,253,136,1.1.5,full,-1,-1,-1,en
+3363,-1,English (text-davinci-003),0,-1,-1,mauve,167,21,129,1.1.5,full,-1,-1,-1,en
+95452,-1,Chinese (text-davinci-003),0,-1,-1,褐色,167,21,129,1.1.5,full,-1,-1,-1,en
+11145,-1,Russian (text-davinci-003),0,-1,-1,пурпурный,167,21,129,1.1.5,full,-1,-1,-1,en
+68124,-1,Korean (text-davinci-003),0,-1,-1,회색,167,21,129,1.1.5,full,-1,-1,-1,en
+802,-1,English (text-davinci-003),0,-1,-1,Copper,190,100,39,1.1.5,full,-1,-1,-1,en
+117849,-1,Chinese (text-davinci-003),0,-1,-1,砖红色,190,100,39,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,коричневый,190,100,39,1.1.5,full,-1,-1,-1,en
+192,-1,Korean (text-davinci-003),0,-1,-1,빨강색,190,100,39,1.1.5,full,-1,-1,-1,en
+13581,-1,English (text-davinci-003),0,-1,-1,Plum,71,47,57,1.1.5,full,-1,-1,-1,en
+19007,-1,Chinese (text-davinci-003),0,-1,-1,深紫色,71,47,57,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Темная сирень,71,47,57,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,밤색이다,71,47,57,1.1.5,full,-1,-1,-1,en
+142194,-1,English (text-davinci-003),0,-1,-1,Mellow Yellow,247,195,64,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,玉露橙,247,195,64,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,песочный оттенок,247,195,64,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,버드 오렌지,247,195,64,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Caribbean Green,60,147,139,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苍翠绿,60,147,139,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,60,147,139,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,에메랄드 그린,60,147,139,1.1.5,full,-1,-1,-1,en
+962,-1,English (text-davinci-003),0,-1,-1,Blue-Green,3,120,174,1.1.5,full,-1,-1,-1,en
+19004,-1,Chinese (text-davinci-003),0,-1,-1,深蓝色,3,120,174,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,3,120,174,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,3,120,174,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Gray,126,134,179,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,126,134,179,1.1.5,full,-1,-1,-1,en
+11145,-1,Russian (text-davinci-003),0,-1,-1,пурпурный,126,134,179,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,Lavender Purple,126,134,179,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,128,124,44,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,棕褐色,128,124,44,1.1.5,full,-1,-1,-1,en
+143210,-1,Russian (text-davinci-003),0,-1,-1,Коричневый,128,124,44,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바나나 노랑,128,124,44,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Desert,159,147,112,1.1.5,full,-1,-1,-1,en
+95452,-1,Chinese (text-davinci-003),0,-1,-1,褐色,159,147,112,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бурый,159,147,112,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,159,147,112,1.1.5,full,-1,-1,-1,en
+802,-1,English (text-davinci-003),0,-1,-1,Copper,131,69,6,1.1.5,full,-1,-1,-1,en
+117845,-1,Chinese (text-davinci-003),0,-1,-1,深褐色,131,69,6,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,коричневый коричневый,131,69,6,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,131,69,6,1.1.5,full,-1,-1,-1,en
+100688,-1,English (text-davinci-003),0,-1,-1,Olive Drab,97,94,22,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,棕褐色,97,94,22,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,каштановый,97,94,22,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,호박색,97,94,22,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Caribbean Green,9,232,166,1.1.5,full,-1,-1,-1,en
+20058,-1,Chinese (text-davinci-003),0,-1,-1,薄荷绿,9,232,166,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,9,232,166,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,9,232,166,1.1.5,full,-1,-1,-1,en
+48,-1,English (text-davinci-003),0,-1,-1,goldenrod,245,214,5,1.1.5,full,-1,-1,-1,en
+19002,-1,Chinese (text-davinci-003),0,-1,-1,金黄色,245,214,5,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,желто-золотой,245,214,5,1.1.5,full,-1,-1,-1,en
+3851,-1,Korean (text-davinci-003),0,-1,-1,노랑색,245,214,5,1.1.5,full,-1,-1,-1,en
+1373,-1,English (text-davinci-003),0,-1,-1,Cornflower Blue,86,156,237,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,湛蓝色,86,156,237,1.1.5,full,-1,-1,-1,en
+13939,-1,Russian (text-davinci-003),0,-1,-1,небесно-голубой,86,156,237,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,86,156,237,1.1.5,full,-1,-1,-1,en
+27193,-1,English (text-davinci-003),0,-1,-1,Persian Blue,38,50,189,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝蓝,38,50,189,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,небесно-синий,38,50,189,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다이아몬드 블루,38,50,189,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,107,150,77,1.1.5,full,-1,-1,-1,en
+32975,-1,Chinese (text-davinci-003),0,-1,-1,Olive Green,107,150,77,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,107,150,77,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,초록바나나색,107,150,77,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,62,140,237,1.1.5,full,-1,-1,-1,en
+19229,-1,Chinese (text-davinci-003),0,-1,-1,深天蓝,62,140,237,1.1.5,full,-1,-1,-1,en
+18534,-1,Russian (text-davinci-003),0,-1,-1,Бирюзовый,62,140,237,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,하늘색이다,62,140,237,1.1.5,full,-1,-1,-1,en
+43872,-1,English (text-davinci-003),0,-1,-1,Burnt Sienna,205,97,35,1.1.5,full,-1,-1,-1,en
+19001,-1,Chinese (text-davinci-003),0,-1,-1,橘红色,205,97,35,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,коричневый оранжевый,205,97,35,1.1.5,full,-1,-1,-1,en
+177,-1,Korean (text-davinci-003),0,-1,-1,빨간색,205,97,35,1.1.5,full,-1,-1,-1,en
+42430,-1,English (text-davinci-003),0,-1,-1,taupe,195,158,128,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,褐色米色,195,158,128,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,ореховый,195,158,128,1.1.5,full,-1,-1,-1,en
+68909,-1,Korean (text-davinci-003),0,-1,-1,연한 갈색,195,158,128,1.1.5,full,-1,-1,-1,en
+42086,-1,English (text-davinci-003),0,-1,-1,Green-Yellow,170,242,17,1.1.5,full,-1,-1,-1,en
+6376,-1,Chinese (text-davinci-003),0,-1,-1,Beige,170,242,17,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зелено-желтый,170,242,17,1.1.5,full,-1,-1,-1,en
+68124,-1,Korean (text-davinci-003),0,-1,-1,회색,170,242,17,1.1.5,full,-1,-1,-1,en
+122580,-1,English (text-davinci-003),0,-1,-1,Stonewash,72,75,80,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,哑灰,72,75,80,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Серый асфальт,72,75,80,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,그레이스쿨 색,72,75,80,1.1.5,full,-1,-1,-1,en
+3363,-1,English (text-davinci-003),0,-1,-1,mauve,176,105,152,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,176,105,152,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бледно-розовая пудра,176,105,152,1.1.5,full,-1,-1,-1,en
+171,-1,Korean (text-davinci-003),0,-1,-1,분홍색,176,105,152,1.1.5,full,-1,-1,-1,en
+4740,-1,English (text-davinci-003),0,-1,-1,Teal Blue,65,226,214,1.1.5,full,-1,-1,-1,en
+19468,-1,Chinese (text-davinci-003),0,-1,-1,浅绿色,65,226,214,1.1.5,full,-1,-1,-1,en
+18339,-1,Russian (text-davinci-003),0,-1,-1,аквамарин,65,226,214,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,하늘색이다,65,226,214,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,lavender magenta,227,68,254,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深洋红,227,68,254,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-розовый,227,68,254,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,227,68,254,1.1.5,full,-1,-1,-1,en
+13581,-1,English (text-davinci-003),0,-1,-1,Plum,92,56,77,1.1.5,full,-1,-1,-1,en
+19007,-1,Chinese (text-davinci-003),0,-1,-1,深紫色,92,56,77,1.1.5,full,-1,-1,-1,en
+101003,-1,Russian (text-davinci-003),0,-1,-1,темно-фиолетовый,92,56,77,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,갈색주황색,92,56,77,1.1.5,full,-1,-1,-1,en
+13581,-1,English (text-davinci-003),0,-1,-1,Plum,185,24,110,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡紫罗兰色,185,24,110,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,виноградный цвет,185,24,110,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,분홍실크 색상이라고 합니다,185,24,110,1.1.5,full,-1,-1,-1,en
+89,-1,English (text-davinci-003),0,-1,-1,Teal,25,210,164,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,25,210,164,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,25,210,164,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,25,210,164,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blush,211,121,254,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,薰衣草紫,211,121,254,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лиловый,211,121,254,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,211,121,254,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,68,166,183,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,冰川蓝,68,166,183,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,голубой аквамарин,68,166,183,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,68,166,183,1.1.5,full,-1,-1,-1,en
+23578,-1,English (text-davinci-003),0,-1,-1,beige,216,207,151,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,象牙色,216,207,151,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бежевый,216,207,151,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,버들빛색,216,207,151,1.1.5,full,-1,-1,-1,en
+4198,-1,English (text-davinci-003),0,-1,-1,raspberry,195,49,95,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深紫罗兰色,195,49,95,1.1.5,full,-1,-1,-1,en
+41806,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-красный,195,49,95,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,마른 보라색이다,195,49,95,1.1.5,full,-1,-1,-1,en
+267,-1,English (text-davinci-003),0,-1,-1,Scarlet,253,31,54,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,火红色,253,31,54,1.1.5,full,-1,-1,-1,en
+13942,-1,Russian (text-davinci-003),0,-1,-1,алый,253,31,54,1.1.5,full,-1,-1,-1,en
+2947,-1,Korean (text-davinci-003),0,-1,-1,빨강,253,31,54,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blush,232,203,244,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,232,203,244,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лиловый,232,203,244,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 바나나 색상,232,203,244,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,lavender gray,228,225,245,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,228,225,245,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,сладкая сирень,228,225,245,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바람꽃 보라색,228,225,245,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Green Spring,73,218,115,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,73,218,115,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленовато-синий,73,218,115,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,73,218,115,1.1.5,full,-1,-1,-1,en
+4,-1,English (text-davinci-003),0,-1,-1,aqua,130,197,194,1.1.5,full,-1,-1,-1,en
+20057,-1,Chinese (text-davinci-003),0,-1,-1,淡绿色,130,197,194,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,130,197,194,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,초록색 또는 연한 초록색,130,197,194,1.1.5,full,-1,-1,-1,en
+48,-1,English (text-davinci-003),0,-1,-1,goldenrod,173,151,1,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,珊瑚橙色,173,151,1,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,оранжево-желтый,173,151,1,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,173,151,1,1.1.5,full,-1,-1,-1,en
+294,-1,English (text-davinci-003),0,-1,-1,turquoise,70,247,198,1.1.5,full,-1,-1,-1,en
+19468,-1,Chinese (text-davinci-003),0,-1,-1,浅绿色,70,247,198,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,70,247,198,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,초록색 이라고 합니다,70,247,198,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,36,188,13,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,36,188,13,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мятный,36,188,13,1.1.5,full,-1,-1,-1,en
+72330,-1,Korean (text-davinci-003),0,-1,-1,녹차색,36,188,13,1.1.5,full,-1,-1,-1,en
+4470,-1,English (text-davinci-003),0,-1,-1,royal purple,58,27,118,1.1.5,full,-1,-1,-1,en
+19007,-1,Chinese (text-davinci-003),0,-1,-1,深紫色,58,27,118,1.1.5,full,-1,-1,-1,en
+101003,-1,Russian (text-davinci-003),0,-1,-1,темно-фиолетовый,58,27,118,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,밤하늘 파랑,58,27,118,1.1.5,full,-1,-1,-1,en
+3363,-1,English (text-davinci-003),0,-1,-1,mauve,218,130,138,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡珊瑚粉,218,130,138,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,вишневый,218,130,138,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,분홍빛 갈색,218,130,138,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blush,168,95,193,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,浅褐色,168,95,193,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,сладкая сирень,168,95,193,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,168,95,193,1.1.5,full,-1,-1,-1,en
+89,-1,English (text-davinci-003),0,-1,-1,Teal,66,122,135,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深天蓝色,66,122,135,1.1.5,full,-1,-1,-1,en
+10801,-1,Russian (text-davinci-003),0,-1,-1,бирюзовый,66,122,135,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,66,122,135,1.1.5,full,-1,-1,-1,en
+89,-1,English (text-davinci-003),0,-1,-1,Teal,14,228,151,1.1.5,full,-1,-1,-1,en
+20058,-1,Chinese (text-davinci-003),0,-1,-1,薄荷绿,14,228,151,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,14,228,151,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,14,228,151,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Aqua Gray,179,202,197,1.1.5,full,-1,-1,-1,en
+19326,-1,Chinese (text-davinci-003),0,-1,-1,海军蓝,179,202,197,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Бледно-Синий,179,202,197,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,틸란드라 색,179,202,197,1.1.5,full,-1,-1,-1,en
+64913,-1,English (text-davinci-003),0,-1,-1,Sunset Orange,233,108,74,1.1.5,full,-1,-1,-1,en
+19001,-1,Chinese (text-davinci-003),0,-1,-1,橘红色,233,108,74,1.1.5,full,-1,-1,-1,en
+79913,-1,Russian (text-davinci-003),0,-1,-1,апельсиновый,233,108,74,1.1.5,full,-1,-1,-1,en
+184,-1,Korean (text-davinci-003),0,-1,-1,주황색,233,108,74,1.1.5,full,-1,-1,-1,en
+811,-1,English (text-davinci-003),0,-1,-1,yellow green,194,204,25,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苍白黄色,194,204,25,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,золотой,194,204,25,1.1.5,full,-1,-1,-1,en
+3851,-1,Korean (text-davinci-003),0,-1,-1,노랑색,194,204,25,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Gray,221,169,223,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡紫红,221,169,223,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,розово-лиловый,221,169,223,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 분홍색,221,169,223,1.1.5,full,-1,-1,-1,en
+143952,-1,English (text-davinci-003),0,-1,-1,Raw Umber,123,94,7,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,棕褐色,123,94,7,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,баклажановый,123,94,7,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,123,94,7,1.1.5,full,-1,-1,-1,en
+32354,-1,English (text-davinci-003),0,-1,-1,Blue-Violet,27,28,238,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,蓝宝石色,27,28,238,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,небесно-синий,27,28,238,1.1.5,full,-1,-1,-1,en
+68268,-1,Korean (text-davinci-003),0,-1,-1,밤색,27,28,238,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Green Sheen,111,207,60,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,草坪绿,111,207,60,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Зеленый лайм,111,207,60,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라임컬러,111,207,60,1.1.5,full,-1,-1,-1,en
+2196,-1,English (text-davinci-003),0,-1,-1,Spring Green,104,208,100,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,酸橙绿,104,208,100,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый морской,104,208,100,1.1.5,full,-1,-1,-1,en
+71772,-1,Korean (text-davinci-003),0,-1,-1,라임그린,104,208,100,1.1.5,full,-1,-1,-1,en
+13581,-1,English (text-davinci-003),0,-1,-1,Plum,210,22,125,1.1.5,full,-1,-1,-1,en
+36628,-1,Chinese (text-davinci-003),0,-1,-1,紫红色,210,22,125,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,розово-лиловый,210,22,125,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,210,22,125,1.1.5,full,-1,-1,-1,en
+22869,-1,English (text-davinci-003),0,-1,-1,Brown,68,60,24,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深卡其布色,68,60,24,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,коричневый,68,60,24,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,곰팡이 브라운,68,60,24,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,26,175,77,1.1.5,full,-1,-1,-1,en
+18938,-1,Chinese (text-davinci-003),0,-1,-1,绿色,26,175,77,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,26,175,77,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,26,175,77,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,lavender mist,222,15,247,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,222,15,247,1.1.5,full,-1,-1,-1,en
+143232,-1,Russian (text-davinci-003),0,-1,-1,лавандовый,222,15,247,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 바이올렛,222,15,247,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Blue Steel,45,96,185,1.1.5,full,-1,-1,-1,en
+19004,-1,Chinese (text-davinci-003),0,-1,-1,深蓝色,45,96,185,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,небесно-синий,45,96,185,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,45,96,185,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,154,76,212,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,154,76,212,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-лиловый,154,76,212,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바이올렛 보라,154,76,212,1.1.5,full,-1,-1,-1,en
+2196,-1,English (text-davinci-003),0,-1,-1,Spring Green,95,183,97,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,95,183,97,1.1.5,full,-1,-1,-1,en
+10275,-1,Russian (text-davinci-003),0,-1,-1,зеленый,95,183,97,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,95,183,97,1.1.5,full,-1,-1,-1,en
+115,-1,English (text-davinci-003),0,-1,-1,Mint Green,58,231,111,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,58,231,111,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,58,231,111,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,58,231,111,1.1.5,full,-1,-1,-1,en
+100688,-1,English (text-davinci-003),0,-1,-1,Olive Drab,206,211,126,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苍麒麟绿,206,211,126,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бежевый,206,211,126,1.1.5,full,-1,-1,-1,en
+3851,-1,Korean (text-davinci-003),0,-1,-1,노랑색,206,211,126,1.1.5,full,-1,-1,-1,en
+115,-1,English (text-davinci-003),0,-1,-1,Mint Green,167,224,171,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,浅灰蓝,167,224,171,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,167,224,171,1.1.5,full,-1,-1,-1,en
+171,-1,Korean (text-davinci-003),0,-1,-1,분홍색,167,224,171,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blush,237,93,240,1.1.5,full,-1,-1,-1,en
+19056,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰,237,93,240,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-розовый,237,93,240,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,237,93,240,1.1.5,full,-1,-1,-1,en
+89,-1,English (text-davinci-003),0,-1,-1,Teal,9,130,140,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,浅石板蓝,9,130,140,1.1.5,full,-1,-1,-1,en
+75948,-1,Russian (text-davinci-003),0,-1,-1,пастельно-зеленый,9,130,140,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,하늘색 또는 청록색,9,130,140,1.1.5,full,-1,-1,-1,en
+6379,-1,English (text-davinci-003),0,-1,-1,khaki,187,203,108,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,草坪绿,187,203,108,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Золотой орех,187,203,108,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,187,203,108,1.1.5,full,-1,-1,-1,en
+1373,-1,English (text-davinci-003),0,-1,-1,Cornflower Blue,22,72,232,1.1.5,full,-1,-1,-1,en
+36272,-1,Chinese (text-davinci-003),0,-1,-1,浅蓝色,22,72,232,1.1.5,full,-1,-1,-1,en
+13939,-1,Russian (text-davinci-003),0,-1,-1,небесно-голубой,22,72,232,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바다빛,22,72,232,1.1.5,full,-1,-1,-1,en
+115,-1,English (text-davinci-003),0,-1,-1,Mint Green,55,229,120,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿松石,55,229,120,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,мята,55,229,120,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,55,229,120,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,48,213,37,1.1.5,full,-1,-1,-1,en
+18938,-1,Chinese (text-davinci-003),0,-1,-1,绿色,48,213,37,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,48,213,37,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,48,213,37,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Cadet Blue,37,62,241,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝石蓝,37,62,241,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,полуночно-синий,37,62,241,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다이아몬드 블루,37,62,241,1.1.5,full,-1,-1,-1,en
+26,-1,English (text-davinci-003),0,-1,-1,light blue,179,208,216,1.1.5,full,-1,-1,-1,en
+18943,-1,Chinese (text-davinci-003),0,-1,-1,淡蓝,179,208,216,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бледно-лазурный,179,208,216,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,연한 파랑색,179,208,216,1.1.5,full,-1,-1,-1,en
+100688,-1,English (text-davinci-003),0,-1,-1,Olive Drab,24,24,7,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深灰色,24,24,7,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,темно-коричневый,24,24,7,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,24,24,7,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blue,92,108,186,1.1.5,full,-1,-1,-1,en
+19326,-1,Chinese (text-davinci-003),0,-1,-1,海军蓝,92,108,186,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,цвет синего лазурного,92,108,186,1.1.5,full,-1,-1,-1,en
+68996,-1,Korean (text-davinci-003),0,-1,-1,밝은 청록색,92,108,186,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,89,179,192,1.1.5,full,-1,-1,-1,en
+19468,-1,Chinese (text-davinci-003),0,-1,-1,浅绿色,89,179,192,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,морской глубины,89,179,192,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,89,179,192,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,167,195,30,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,浅灰色,167,195,30,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,167,195,30,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,그레이색,167,195,30,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,219,95,246,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡紫红色,219,95,246,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лиловый,219,95,246,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,219,95,246,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Gray,147,148,220,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,147,148,220,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лазурный сиреневый,147,148,220,1.1.5,full,-1,-1,-1,en
+68832,-1,Korean (text-davinci-003),0,-1,-1,밝은 보라색,147,148,220,1.1.5,full,-1,-1,-1,en
+359,-1,English (text-davinci-003),0,-1,-1,chartreuse,232,254,95,1.1.5,full,-1,-1,-1,en
+8448,-1,Chinese (text-davinci-003),0,-1,-1,Lemon Yellow,232,254,95,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый лайм,232,254,95,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벨라이트 오렌지,232,254,95,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,157,112,245,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,157,112,245,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,лиловый,157,112,245,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,보라색이다,157,112,245,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,23,214,0,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿黄色,23,214,0,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Зеленый мох,23,214,0,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,23,214,0,1.1.5,full,-1,-1,-1,en
+45072,-1,English (text-davinci-003),0,-1,-1,Pale Lavender,190,174,187,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡紫灰,190,174,187,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,пудровый,190,174,187,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,연한 분홍색,190,174,187,1.1.5,full,-1,-1,-1,en
+359,-1,English (text-davinci-003),0,-1,-1,chartreuse,160,225,4,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,灰白色,160,225,4,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый лайм,160,225,4,1.1.5,full,-1,-1,-1,en
+68124,-1,Korean (text-davinci-003),0,-1,-1,회색,160,225,4,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,96,231,3,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿松石,96,231,3,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый малиновый,96,231,3,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,96,231,3,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,209,9,205,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,209,9,205,1.1.5,full,-1,-1,-1,en
+10276,-1,Russian (text-davinci-003),0,-1,-1,фиолетовый,209,9,205,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,209,9,205,1.1.5,full,-1,-1,-1,en
+555,-1,English (text-davinci-003),0,-1,-1,burnt orange,176,96,58,1.1.5,full,-1,-1,-1,en
+19110,-1,Chinese (text-davinci-003),0,-1,-1,深粉色,176,96,58,1.1.5,full,-1,-1,-1,en
+100997,-1,Russian (text-davinci-003),0,-1,-1,бордовый,176,96,58,1.1.5,full,-1,-1,-1,en
+177,-1,Korean (text-davinci-003),0,-1,-1,빨간색,176,96,58,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Fuchsia Pink,222,10,161,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡紫红色,222,10,161,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,ализариновый розовый,222,10,161,1.1.5,full,-1,-1,-1,en
+171,-1,Korean (text-davinci-003),0,-1,-1,분홍색,222,10,161,1.1.5,full,-1,-1,-1,en
+41267,-1,English (text-davinci-003),0,-1,-1,plum,123,11,93,1.1.5,full,-1,-1,-1,en
+19007,-1,Chinese (text-davinci-003),0,-1,-1,深紫色,123,11,93,1.1.5,full,-1,-1,-1,en
+41806,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-красный,123,11,93,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,123,11,93,1.1.5,full,-1,-1,-1,en
+45142,-1,English (text-davinci-003),0,-1,-1,dusty rose,162,126,130,1.1.5,full,-1,-1,-1,en
+19001,-1,Chinese (text-davinci-003),0,-1,-1,橘红色,162,126,130,1.1.5,full,-1,-1,-1,en
+75937,-1,Russian (text-davinci-003),0,-1,-1,грушевый,162,126,130,1.1.5,full,-1,-1,-1,en
+68124,-1,Korean (text-davinci-003),0,-1,-1,회색,162,126,130,1.1.5,full,-1,-1,-1,en
+22466,-1,English (text-davinci-003),0,-1,-1,Peach,242,156,119,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,珊瑚粉,242,156,119,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,песочный оттенок,242,156,119,1.1.5,full,-1,-1,-1,en
+52147,-1,Korean (text-davinci-003),0,-1,-1,벽돌색,242,156,119,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Purple Wine,96,30,99,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,96,30,99,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-бордовый,96,30,99,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다크 퍼플,96,30,99,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,golden sand,198,179,74,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,金色,198,179,74,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,золотисто-коричневый,198,179,74,1.1.5,full,-1,-1,-1,en
+42974,-1,Korean (text-davinci-003),0,-1,-1,갈색,198,179,74,1.1.5,full,-1,-1,-1,en
+58938,-1,English (text-davinci-003),0,-1,-1,blue-gray,23,81,132,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,品红色,23,81,132,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,глубокий бирюзовый,23,81,132,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,23,81,132,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Faded Rose,168,14,91,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,浅灰色,168,14,91,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,пудровый розовый,168,14,91,1.1.5,full,-1,-1,-1,en
+3186,-1,Korean (text-davinci-003),0,-1,-1,노랑,168,14,91,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,15,193,252,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,Turquoise Blue,15,193,252,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,синий голубой,15,193,252,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,15,193,252,1.1.5,full,-1,-1,-1,en
+32975,-1,English (text-davinci-003),0,-1,-1,Olive Green,87,119,72,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深灰色,87,119,72,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,темно-коричневый,87,119,72,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,87,119,72,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,48,150,227,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,48,150,227,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,48,150,227,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,48,150,227,1.1.5,full,-1,-1,-1,en
+7062,-1,English (text-davinci-003),0,-1,-1,olive green,155,163,18,1.1.5,full,-1,-1,-1,en
+32975,-1,Chinese (text-davinci-003),0,-1,-1,Olive Green,155,163,18,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зелено-желтый,155,163,18,1.1.5,full,-1,-1,-1,en
+72330,-1,Korean (text-davinci-003),0,-1,-1,녹차색,155,163,18,1.1.5,full,-1,-1,-1,en
+724,-1,English (text-davinci-003),0,-1,-1,Chartreuse,226,250,128,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,蜂蜜黄,226,250,128,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бледно-зеленый,226,250,128,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 오렌지,226,250,128,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Red Devil,228,33,46,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,火红色,228,33,46,1.1.5,full,-1,-1,-1,en
+13942,-1,Russian (text-davinci-003),0,-1,-1,алый,228,33,46,1.1.5,full,-1,-1,-1,en
+171,-1,Korean (text-davinci-003),0,-1,-1,분홍색,228,33,46,1.1.5,full,-1,-1,-1,en
+21531,-1,English (text-davinci-003),0,-1,-1,Denim Blue,25,82,203,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝蓝,25,82,203,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,небесно-синий,25,82,203,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,25,82,203,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Purple Plum,149,20,149,1.1.5,full,-1,-1,-1,en
+19210,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰色,149,20,149,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-розовый,149,20,149,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바이올렛 레이와 같습니다,149,20,149,1.1.5,full,-1,-1,-1,en
+89,-1,English (text-davinci-003),0,-1,-1,Teal,32,170,143,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,32,170,143,1.1.5,full,-1,-1,-1,en
+10801,-1,Russian (text-davinci-003),0,-1,-1,бирюзовый,32,170,143,1.1.5,full,-1,-1,-1,en
+882,-1,Korean (text-davinci-003),0,-1,-1,초록색,32,170,143,1.1.5,full,-1,-1,-1,en
+41944,-1,English (text-davinci-003),0,-1,-1,burnt umber,141,67,20,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,热带橙,141,67,20,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бурый,141,67,20,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,레드베이지,141,67,20,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,3,166,242,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,3,166,242,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,3,166,242,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,3,166,242,1.1.5,full,-1,-1,-1,en
+80344,-1,English (text-davinci-003),0,-1,-1,Wheat,212,170,76,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,金色,212,170,76,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,золотисто-коричневый,212,170,76,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,버드 오렌지,212,170,76,1.1.5,full,-1,-1,-1,en
+109978,-1,English (text-davinci-003),0,-1,-1,Caribbean Sea,67,195,156,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苹果绿,67,195,156,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Туманный зелено-голубой,67,195,156,1.1.5,full,-1,-1,-1,en
+115,-1,Korean (text-davinci-003),0,-1,-1,Mint Green,67,195,156,1.1.5,full,-1,-1,-1,en
+5054,-1,English (text-davinci-003),0,-1,-1,Brick Red,134,5,80,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,暗红色,134,5,80,1.1.5,full,-1,-1,-1,en
+100997,-1,Russian (text-davinci-003),0,-1,-1,бордовый,134,5,80,1.1.5,full,-1,-1,-1,en
+68268,-1,Korean (text-davinci-003),0,-1,-1,밤색,134,5,80,1.1.5,full,-1,-1,-1,en
+6376,-1,English (text-davinci-003),0,-1,-1,Beige,188,192,130,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,金色,188,192,130,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бледно-зеленый,188,192,130,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,황금빛 노랑,188,192,130,1.1.5,full,-1,-1,-1,en
+32354,-1,English (text-davinci-003),0,-1,-1,Blue-Violet,34,13,189,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深天蓝色,34,13,189,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,34,13,189,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,남색 또는 다람쥐 파랑,34,13,189,1.1.5,full,-1,-1,-1,en
+952,-1,English (text-davinci-003),0,-1,-1,Royal Blue,37,80,215,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,蓝宝石色,37,80,215,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,небесно-синий,37,80,215,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,37,80,215,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Flamingo Pink,229,67,99,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,火热的玫瑰,229,67,99,1.1.5,full,-1,-1,-1,en
+41767,-1,Russian (text-davinci-003),0,-1,-1,розово-красный,229,67,99,1.1.5,full,-1,-1,-1,en
+13190,-1,Korean (text-davinci-003),0,-1,-1,붉은색,229,67,99,1.1.5,full,-1,-1,-1,en
+62,-1,English (text-davinci-003),0,-1,-1,midnight blue,59,71,110,1.1.5,full,-1,-1,-1,en
+19004,-1,Chinese (text-davinci-003),0,-1,-1,深蓝色,59,71,110,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Сливовый синий,59,71,110,1.1.5,full,-1,-1,-1,en
+5344,-1,Korean (text-davinci-003),0,-1,-1,Navy Blue,59,71,110,1.1.5,full,-1,-1,-1,en
+3449,-1,English (text-davinci-003),0,-1,-1,Royal Purple,48,7,133,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深海蓝色,48,7,133,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,синий пурпурный,48,7,133,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,블루베이지,48,7,133,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,43,139,221,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,蓝灰色,43,139,221,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,43,139,221,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,43,139,221,1.1.5,full,-1,-1,-1,en
+24260,-1,English (text-davinci-003),0,-1,-1,Rose Pink,229,175,173,1.1.5,full,-1,-1,-1,en
+19630,-1,Chinese (text-davinci-003),0,-1,-1,粉红色,229,175,173,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,розово-коричневый,229,175,173,1.1.5,full,-1,-1,-1,en
+171,-1,Korean (text-davinci-003),0,-1,-1,분홍색,229,175,173,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blue,100,130,202,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,淡蓝紫色,100,130,202,1.1.5,full,-1,-1,-1,en
+18348,-1,Russian (text-davinci-003),0,-1,-1,лазурный,100,130,202,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다이아몬드 블루,100,130,202,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Light Steel Blue,111,126,227,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,薄荷紫,111,126,227,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,голубой лазурит,111,126,227,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,111,126,227,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,127,177,242,1.1.5,full,-1,-1,-1,en
+20055,-1,Chinese (text-davinci-003),0,-1,-1,淡蓝色,127,177,242,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,пастельный голубой,127,177,242,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바다빛 라벤더,127,177,242,1.1.5,full,-1,-1,-1,en
+797,-1,English (text-davinci-003),0,-1,-1,Bright Red,232,65,61,1.1.5,full,-1,-1,-1,en
+103961,-1,Chinese (text-davinci-003),0,-1,-1,深红色,232,65,61,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,похожий на розовый,232,65,61,1.1.5,full,-1,-1,-1,en
+177,-1,Korean (text-davinci-003),0,-1,-1,빨간색,232,65,61,1.1.5,full,-1,-1,-1,en
+382,-1,English (text-davinci-003),0,-1,-1,Mint,160,240,104,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,哑光灰色,160,240,104,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,мятный зеленый,160,240,104,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,회색이다,160,240,104,1.1.5,full,-1,-1,-1,en
+115,-1,English (text-davinci-003),0,-1,-1,Mint Green,167,255,211,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,薄荷奶油,167,255,211,1.1.5,full,-1,-1,-1,en
+10801,-1,Russian (text-davinci-003),0,-1,-1,бирюзовый,167,255,211,1.1.5,full,-1,-1,-1,en
+158,-1,Korean (text-davinci-003),0,-1,-1,연두색,167,255,211,1.1.5,full,-1,-1,-1,en
+8460,-1,English (text-davinci-003),0,-1,-1,Midnight Blue,6,59,89,1.1.5,full,-1,-1,-1,en
+19326,-1,Chinese (text-davinci-003),0,-1,-1,海军蓝,6,59,89,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Синий глубокого океана,6,59,89,1.1.5,full,-1,-1,-1,en
+73899,-1,Korean (text-davinci-003),0,-1,-1,감청색,6,59,89,1.1.5,full,-1,-1,-1,en
+58829,-1,English (text-davinci-003),0,-1,-1,Electric Purple,150,4,168,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,紫罗兰玫瑰色,150,4,168,1.1.5,full,-1,-1,-1,en
+11145,-1,Russian (text-davinci-003),0,-1,-1,пурпурный,150,4,168,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바나나 자주색,150,4,168,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Coral Orange,250,150,107,1.1.5,full,-1,-1,-1,en
+19029,-1,Chinese (text-davinci-003),0,-1,-1,橙色,250,150,107,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,оранжево-коричневый,250,150,107,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,벚꽃 오렌지,250,150,107,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Gray,177,135,175,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,暗紫色,177,135,175,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетово-лиловый,177,135,175,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,라벤더 핑크,177,135,175,1.1.5,full,-1,-1,-1,en
+3,-1,English (text-davinci-003),0,-1,-1,green,35,217,73,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,绿松石绿,35,217,73,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый магический,35,217,73,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,35,217,73,1.1.5,full,-1,-1,-1,en
+952,-1,English (text-davinci-003),0,-1,-1,Royal Blue,39,12,185,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,蓝宝石色,39,12,185,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Синий лазурный,39,12,185,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,39,12,185,1.1.5,full,-1,-1,-1,en
+952,-1,English (text-davinci-003),0,-1,-1,Royal Blue,25,27,158,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝蓝,25,27,158,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Лазурный Синий,25,27,158,1.1.5,full,-1,-1,-1,en
+881,-1,Korean (text-davinci-003),0,-1,-1,남색,25,27,158,1.1.5,full,-1,-1,-1,en
+3,-1,English (text-davinci-003),0,-1,-1,green,41,179,111,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,41,179,111,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,41,179,111,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,41,179,111,1.1.5,full,-1,-1,-1,en
+294,-1,English (text-davinci-003),0,-1,-1,turquoise,84,193,170,1.1.5,full,-1,-1,-1,en
+19468,-1,Chinese (text-davinci-003),0,-1,-1,浅绿色,84,193,170,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,84,193,170,1.1.5,full,-1,-1,-1,en
+3845,-1,Korean (text-davinci-003),0,-1,-1,파랑색,84,193,170,1.1.5,full,-1,-1,-1,en
+6376,-1,English (text-davinci-003),0,-1,-1,Beige,212,194,148,1.1.5,full,-1,-1,-1,en
+51137,-1,Chinese (text-davinci-003),0,-1,-1,米色,212,194,148,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бежевый,212,194,148,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,밤남색이라고 합니다,212,194,148,1.1.5,full,-1,-1,-1,en
+2136,-1,English (text-davinci-003),0,-1,-1,Raspberry,174,24,84,1.1.5,full,-1,-1,-1,en
+51137,-1,Chinese (text-davinci-003),0,-1,-1,米色,174,24,84,1.1.5,full,-1,-1,-1,en
+13942,-1,Russian (text-davinci-003),0,-1,-1,алый,174,24,84,1.1.5,full,-1,-1,-1,en
+3186,-1,Korean (text-davinci-003),0,-1,-1,노랑,174,24,84,1.1.5,full,-1,-1,-1,en
+3,-1,English (text-davinci-003),0,-1,-1,green,73,207,43,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,73,207,43,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,73,207,43,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,따뜻한 녹색,73,207,43,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Gray,185,159,209,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,185,159,209,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,цвет розово-лиловый,185,159,209,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,185,159,209,1.1.5,full,-1,-1,-1,en
+56284,-1,English (text-davinci-003),0,-1,-1,Taupe,197,133,112,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,巧克力色,197,133,112,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,коричневый шоколад,197,133,112,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,붉은 빨강색,197,133,112,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Blue Bell,48,50,188,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深宝石蓝,48,50,188,1.1.5,full,-1,-1,-1,en
+18599,-1,Russian (text-davinci-003),0,-1,-1,темно-синий,48,50,188,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바다 파란색,48,50,188,1.1.5,full,-1,-1,-1,en
+13581,-1,English (text-davinci-003),0,-1,-1,Plum,96,70,92,1.1.5,full,-1,-1,-1,en
+19007,-1,Chinese (text-davinci-003),0,-1,-1,深紫色,96,70,92,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,серо-лиловый,96,70,92,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다크 바이올렛,96,70,92,1.1.5,full,-1,-1,-1,en
+3,-1,English (text-davinci-003),0,-1,-1,green,62,238,9,1.1.5,full,-1,-1,-1,en
+115,-1,Chinese (text-davinci-003),0,-1,-1,Mint Green,62,238,9,1.1.5,full,-1,-1,-1,en
+10275,-1,Russian (text-davinci-003),0,-1,-1,зеленый,62,238,9,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,62,238,9,1.1.5,full,-1,-1,-1,en
+23578,-1,English (text-davinci-003),0,-1,-1,beige,176,184,123,1.1.5,full,-1,-1,-1,en
+20058,-1,Chinese (text-davinci-003),0,-1,-1,薄荷绿,176,184,123,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зелено-коричневый,176,184,123,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,176,184,123,1.1.5,full,-1,-1,-1,en
+89,-1,English (text-davinci-003),0,-1,-1,Teal,62,128,105,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,海洋绿,62,128,105,1.1.5,full,-1,-1,-1,en
+31737,-1,Russian (text-davinci-003),0,-1,-1,морская волна,62,128,105,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,에메랄드 그린,62,128,105,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Mauve Shadow,163,115,121,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,暗灰色,163,115,121,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,Серый асфальт,163,115,121,1.1.5,full,-1,-1,-1,en
+52116,-1,Korean (text-davinci-003),0,-1,-1,검정색,163,115,121,1.1.5,full,-1,-1,-1,en
+1229,-1,English (text-davinci-003),0,-1,-1,Rose,210,58,87,1.1.5,full,-1,-1,-1,en
+19110,-1,Chinese (text-davinci-003),0,-1,-1,深粉色,210,58,87,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,розово-коричневый,210,58,87,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바나나 레드,210,58,87,1.1.5,full,-1,-1,-1,en
+57924,-1,English (text-davinci-003),0,-1,-1,Terracotta,189,73,62,1.1.5,full,-1,-1,-1,en
+103961,-1,Chinese (text-davinci-003),0,-1,-1,深红色,189,73,62,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,насыщенный алый,189,73,62,1.1.5,full,-1,-1,-1,en
+192,-1,Korean (text-davinci-003),0,-1,-1,빨강색,189,73,62,1.1.5,full,-1,-1,-1,en
+1323,-1,English (text-davinci-003),0,-1,-1,Sea Green,99,208,160,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,碧绿色,99,208,160,1.1.5,full,-1,-1,-1,en
+89271,-1,Russian (text-davinci-003),0,-1,-1,нежно-зеленый,99,208,160,1.1.5,full,-1,-1,-1,en
+73899,-1,Korean (text-davinci-003),0,-1,-1,감청색,99,208,160,1.1.5,full,-1,-1,-1,en
+58826,-1,English (text-davinci-003),0,-1,-1,Dusty Plum,104,25,59,1.1.5,full,-1,-1,-1,en
+95462,-1,Chinese (text-davinci-003),0,-1,-1,深紫红色,104,25,59,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,вишневый темно-фиолетовый,104,25,59,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,다크 파랑,104,25,59,1.1.5,full,-1,-1,-1,en
+3449,-1,English (text-davinci-003),0,-1,-1,Royal Purple,66,8,146,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深灰色,66,8,146,1.1.5,full,-1,-1,-1,en
+101003,-1,Russian (text-davinci-003),0,-1,-1,темно-фиолетовый,66,8,146,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바이올렛 파랑,66,8,146,1.1.5,full,-1,-1,-1,en
+57924,-1,English (text-davinci-003),0,-1,-1,Terracotta,174,65,59,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,灰石英色,174,65,59,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,баклажановый,174,65,59,1.1.5,full,-1,-1,-1,en
+2943,-1,Korean (text-davinci-003),0,-1,-1,파랑,174,65,59,1.1.5,full,-1,-1,-1,en
+8448,-1,English (text-davinci-003),0,-1,-1,Lemon Yellow,236,244,53,1.1.5,full,-1,-1,-1,en
+13224,-1,Chinese (text-davinci-003),0,-1,-1,柠檬黄,236,244,53,1.1.5,full,-1,-1,-1,en
+10772,-1,Russian (text-davinci-003),0,-1,-1,желто-зеленый,236,244,53,1.1.5,full,-1,-1,-1,en
+12219,-1,Korean (text-davinci-003),0,-1,-1,밝은 노랑,236,244,53,1.1.5,full,-1,-1,-1,en
+109978,-1,English (text-davinci-003),0,-1,-1,Caribbean Sea,4,141,178,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,深天蓝色,4,141,178,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,4,141,178,1.1.5,full,-1,-1,-1,en
+157,-1,Korean (text-davinci-003),0,-1,-1,파란색,4,141,178,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Rosebud,172,32,130,1.1.5,full,-1,-1,-1,en
+19630,-1,Chinese (text-davinci-003),0,-1,-1,粉红色,172,32,130,1.1.5,full,-1,-1,-1,en
+13942,-1,Russian (text-davinci-003),0,-1,-1,алый,172,32,130,1.1.5,full,-1,-1,-1,en
+68124,-1,Korean (text-davinci-003),0,-1,-1,회색,172,32,130,1.1.5,full,-1,-1,-1,en
+2196,-1,English (text-davinci-003),0,-1,-1,Spring Green,202,237,148,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,豆沙绿,202,237,148,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,бледно-зеленый,202,237,148,1.1.5,full,-1,-1,-1,en
+72305,-1,Korean (text-davinci-003),0,-1,-1,연한 녹색,202,237,148,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Blush,212,132,202,1.1.5,full,-1,-1,-1,en
+19034,-1,Chinese (text-davinci-003),0,-1,-1,淡紫色,212,132,202,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,розово-лиловый,212,132,202,1.1.5,full,-1,-1,-1,en
+160,-1,Korean (text-davinci-003),0,-1,-1,보라색,212,132,202,1.1.5,full,-1,-1,-1,en
+530,-1,English (text-davinci-003),0,-1,-1,Sky Blue,10,178,242,1.1.5,full,-1,-1,-1,en
+19823,-1,Chinese (text-davinci-003),0,-1,-1,天蓝色,10,178,242,1.1.5,full,-1,-1,-1,en
+10273,-1,Russian (text-davinci-003),0,-1,-1,голубой,10,178,242,1.1.5,full,-1,-1,-1,en
+168,-1,Korean (text-davinci-003),0,-1,-1,하늘색,10,178,242,1.1.5,full,-1,-1,-1,en
+8133,-1,English (text-davinci-003),0,-1,-1,olive,92,116,12,1.1.5,full,-1,-1,-1,en
+19000,-1,Chinese (text-davinci-003),0,-1,-1,深绿色,92,116,12,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленовато-коричневый,92,116,12,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,로즈 그레이,92,116,12,1.1.5,full,-1,-1,-1,en
+48,-1,English (text-davinci-003),0,-1,-1,goldenrod,222,179,36,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,橙黄色,222,179,36,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,желто-золотой,222,179,36,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,사파리 노랑,222,179,36,1.1.5,full,-1,-1,-1,en
+337,-1,English (text-davinci-003),0,-1,-1,Green,93,173,13,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,苹果绿,93,173,13,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,зеленый мох,93,173,13,1.1.5,full,-1,-1,-1,en
+3286,-1,Korean (text-davinci-003),0,-1,-1,녹색,93,173,13,1.1.5,full,-1,-1,-1,en
+,-1,English (text-davinci-003),0,-1,-1,Lavender Purple,173,40,222,1.1.5,full,-1,-1,-1,en
+,-1,Chinese (text-davinci-003),0,-1,-1,珊瑚粉,173,40,222,1.1.5,full,-1,-1,-1,en
+,-1,Russian (text-davinci-003),0,-1,-1,фиолетовый лавандовый,173,40,222,1.1.5,full,-1,-1,-1,en
+,-1,Korean (text-davinci-003),0,-1,-1,바닐라색이다,173,40,222,1.1.5,full,-1,-1,-1,en

@@ -1,8 +1,9 @@
 var SOM = require('./SOM');
 
 const fs = require('fs'),
-  d3 = require('d3'),
-  csv=require("csvtojson");;
+  csv = require("csvtojson");
+  
+import('d3').then(d3 => {
 
 let colorNamesAbrv = {
 	"English": "en",
@@ -13,7 +14,8 @@ let colorNamesAbrv = {
 	"French": "fr",
 	"Portuguese": "pt",
 	"Spanish": "es",
-	"Swedish": "sv"
+	"Swedish": "sv",
+	"Russian": "ru",
 };
 
 let commonColorNameLookup = {};
@@ -363,5 +365,4 @@ function RGBtoLAB(r,g,b){
 	return labColor;
 }
  
-  
-
+});

@@ -5,13 +5,14 @@
 const fs = require('fs'),
   refine = require('./refine.js'),
   csv = require("csvtojson"),
-  d3 = require('d3'),
+  // d3 = require('d3'),
   csvWriter = require('csv-write-stream');
-
+import('d3').then(d3 => {
 
 const RGB_SET = "all";
 // Path or the input csv file
-const FILE_I = "../../raw/color_perception_table_color_names.csv"
+// const FILE_I = "../../raw/color_perception_table_color_names.csv"
+const FILE_I = "../../gpt-data/text-davinci-003_results.csv"
 const FILE_O = "../cleaned_color_names.csv"; // Path for the output
 
 csv().fromFile(FILE_I)
@@ -47,4 +48,4 @@ csv().fromFile(FILE_I)
 
   writer.end();
 });
-
+});
