@@ -7,10 +7,11 @@ from tqdm import tqdm
 
 engine = "text-davinci-003"
 temperature = 0.5
-o_file = f'{engine}_temp{temperature}_results.csv'
+o_file = f'{engine}_temp{temperature}_results.csv' if temperature else f'{engine}_results.csv'
+num_samples = 1000
 
 
-openai.api_key = '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'
+openai.api_key = ''
 
 # Define a list of languages and their prompt templates
 # languages = [
@@ -24,6 +25,9 @@ languages = [
     {"language": "Chinese", "template": "{hexcode}颜色的最常见名称是："},
     {"language": "Russian", "template": "Самое распространенное название для цвета {hexcode} - это"},
     {"language": "Korean", "template": "{hexcode} 색상의 가장 일반적인 이름은"},
+]
+languages = [
+    {"language": "Spanish", "template": "El nombre más común para el color {hexcode} es"},
 ]
 # languages = [
 #     {"language": "English", "template": "The best name for the color {hexcode} is"},
@@ -66,7 +70,7 @@ def get_color(s):
 results = []
 
 
-for j in tqdm(range(200)):
+for j in tqdm(range(num_samples)):
     # Randomly sample from RGB colorspace
     r = random.randint(0, 255)
     g = random.randint(0, 255)
@@ -112,7 +116,7 @@ for j in tqdm(range(200)):
                 "g": str(int(code[3:5], 16)),
                 "b": str(int(code[5:], 16)),
                 "studyVersion":"1.1.5",
-                "rgbSet":"full",
+                "rgbSet":"line",
                 "lab_l":"-1",
                 "lab_a":"-1",
                 "lab_b":"-1",
